@@ -33,4 +33,4 @@ Using your `fibonacciNumber()` method, calculate the area of the rectangle of th
 
 Using your `fibonacciNumber()` method, calculate the perimeter of the rectangle of the target fibonacci number.
 
-[fibRect]: http://gofiguremath.org/wp-content/uploads/2014/06/Fibonacci-Squares-Dimensions-cropped.png "Fibonacci Rectangle"
+[fibRect]: https://github.com/jonathonlefler/recursionLab/blob/master/fibSqaure.png "Fibonacci Rectangle"
