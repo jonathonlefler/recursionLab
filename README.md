@@ -27,10 +27,14 @@ The Fibonacci sequence also creates an interesting rectangle, as shown in the fi
 
 ![alt text][fibRect]
 
-Using your `fibonacciNumber()` method, calculate the area of the rectangle of the target fibonacci number. Would recursion be a good way to solve this problem? Why or why not?
+Using your `fibonacciNumber()` method, calculate the area of the rectangle of the target fibonacci number.
 
 ### Extra 2
 
 Using your `fibonacciNumber()` method, calculate the perimeter of the rectangle of the target fibonacci number.
+
+### Extra 3
+
+Something about why using recursion is bad for extra 2 and 3
 
 [fibRect]: https://github.com/jonathonlefler/recursionLab/blob/master/fibSqaure.png "Fibonacci Rectangle"
